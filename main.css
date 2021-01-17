@@ -1,0 +1,173 @@
+body
+{
+	background-color: #f8f9fa;
+	color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+#logo{
+    color: black;
+    font-weight: bold;
+}
+nav{
+    color: black;
+}
+#bar{
+    background: #fff;
+    color: #000;
+    border: 1px solid #000;
+    padding: 0 12px;
+    text-decoration: none;
+}
+#info2{
+    background-color: #a541e8;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+.przycisk{
+    background: #a541e8;
+    color: white;
+    padding: 0 12px;
+    border: 0px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+.przycisk:hover{
+    background: #000;
+    color: white;
+    border: 0px;
+    text-decoration: underline;
+}
+.pole{
+    border: 1px solid #000;
+    text-decoration: none;
+    outline: none;
+    padding: 0 12px;
+    width: 120px;
+}
+.pole2{
+    border: 1px solid #000;
+    border-radius: 10px;
+    text-decoration: none;
+    outline: none;
+    padding: 0 12px;
+    width: 200px;
+}
+.pole3{
+    border: 1px solid #000;
+    text-decoration: none;
+    outline: none;
+    padding: 5px 12px;
+    width: 250px;
+}
+#info{
+    background: #a541e8;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+#zdj{
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+#newkonto{
+    background-color: #a541e8;
+    text-align: center;
+    color: #fff;
+    transition:all 0.3s ease-in-out;
+}
+#newkonto:hover{
+    background: black;
+    text-decoration: underline;
+   
+}
+#error{
+    color:red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#form{
+    color: #000;
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+#menu{
+    background: #000;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px 20px;
+    color: #fff;
+}
+#menu:hover{
+    background: #66A9F5;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+.results tr[visible='false'], .no-result{
+    display: none;
+}
+.results tr[visible='true']{
+    display: table-row;
+}
+#poczta{
+    border-radius: 50%; 
+    background: #fff;
+    color: #000;
+    border: 1px solid #000;
+    text-decoration: none;
+}
+#poczta:hover{
+    border-radius: 50%; 
+    background: #92d1ed;
+    color: #000;
+    border: 1px solid #000;
+    text-decoration: none;
+}
+.pocztaaa{
+    background: #fff;
+    color: #000;
+    border: 1px solid #000;
+    padding: 0 12px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+.pocztaaa:hover{
+    background: #a541e8;
+    border: 1px solid #000;
+    color: #fff;
+    text-decoration: none;
+}
+.wiadomosc{
+    background-color: none;
+    border: 0px;
+    font-weight: bold;
+    transition:all 0.3s ease-in-out;
+}
+.wiadomosc:hover{
+    color: #a541e8;
+    border: 0px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.pole4{
+    border: 1px solid #000;
+    border-radius: 10px;
+    text-decoration: none;
+    outline: none;
+    padding: 5px 12px;
+    width: 300px;
+}
+.logo_color{
+    color:#a541e8;
+    margin-left: 10px;
+}
+#column{
+    background-color: #a541e8;
+    border:0px;
+}
